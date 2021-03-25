@@ -24,10 +24,12 @@ main {
 
 li {
   display: inline;
-  padding: 0px;
-  text-decoration: none;
 }
 
+nav > ul > li {
+  display: inline;
+  padding: 20px;
+}
 a {
   text-decoration: none;
   color: #fdf8f5;
