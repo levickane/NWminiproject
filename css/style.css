@@ -86,16 +86,10 @@ label {
   width: 100px;
 }
 
-input,
-textarea {
+input {
   box-sizing: border-box;
   width: 300px;
   border: 1px solid #4f4846;
-}
-
-textarea {
-  vertical-align: top;
-  height: 60px;
 }
 
 button {
